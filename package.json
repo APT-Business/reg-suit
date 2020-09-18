@@ -1,6 +1,5 @@
 {
   "private": true,
-  "version": "0.0.1-apanizo",
   "scripts": {
     "clean": "rimraf \"packages/*/lib\"",
     "build": "lerna run prepublish",

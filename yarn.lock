@@ -7859,7 +7859,7 @@ redent@^3.0.0:
     indent-string "^4.0.0"
     strip-indent "^3.0.0"
 
-"reg-cli@https://github.com/APT-Business/reg-cli":
+reg-cli@^0.16.1, "reg-cli@https://github.com/APT-Business/reg-cli":
   version "0.16.1"
   resolved "https://github.com/APT-Business/reg-cli#c5e32e4b2c95b3817dc614a37580d4c9090f0403"
   dependencies:
@@ -7881,6 +7881,16 @@ reg-gh-app-interface@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/reg-gh-app-interface/-/reg-gh-app-interface-1.1.0.tgz#a71c80acad06944d21fa5d4fb3d1bf7545a8eb42"
   integrity sha512-hTUJVbmV/67xdqXE+Z/vFpoo+1QdNlQDcrynlKc3d+7mY2trff3n70ETOwhtrxMwSzLxtCTcnHRSIqMeW4AnaQ==
+
+reg-suit-core@^0.10.7:
+  version "0.10.7"
+  resolved "https://registry.yarnpkg.com/reg-suit-core/-/reg-suit-core-0.10.7.tgz#074433981307f3c771043d7355fa4bfe2e63ece9"
+  integrity sha512-W0JsOtkWCeIE+HEiTFYEYiu479UMo0rDU/gd9r/w/JpwMhrwh9fZPHkt7/DdJorXBgWZBotEL/1L1pzFZH0bCw==
+  dependencies:
+    cpx "^1.5.0"
+    reg-cli "^0.16.1"
+    reg-suit-util "^0.10.7"
+    rimraf "^3.0.2"
 
 regenerator-runtime@^0.11.0:
   version "0.11.1"

@@ -1,5 +1,5 @@
 {
-  "name": "reg-suit-core",
+  "name": "reg-suit-core-apanizo",
   "version": "0.10.7",
   "description": "",
   "main": "lib/index.js",
@@ -13,10 +13,10 @@
     "reg"
   ],
   "author": {
-    "name": "Quramy",
-    "email": "yosuke.kurami@gmail.com"
+    "name": "Adolfo",
+    "email": "adolfo.panizo@gmail.com"
   },
-  "repository": "git+https://github.com/reg-viz/reg-suit.git",
+  "repository": "git+https://github.com/APT-Business/reg-suit.git",
   "license": "MIT",
   "dependencies": {
     "cpx": "^1.5.0",

@@ -1,5 +1,5 @@
 {
-  "name": "reg-suit",
+  "name": "reg-suit-apanizo",
   "version": "0.10.7",
   "description": "",
   "bin": {
@@ -27,7 +27,7 @@
     "cp-file": "9.0.0",
     "ignore": "5.1.8",
     "inquirer": "7.3.3",
-    "reg-suit-core": "^0.10.7",
+    "reg-suit-core-apanizo": "^0.10.7",
     "reg-suit-util": "^0.10.7",
     "yargs": "16.0.3"
   },
